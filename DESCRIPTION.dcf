@@ -1,0 +1,10 @@
+Package: FirstPackage
+Type: Package
+Title: Square Function (SQUARE FUNCTION)
+Version: 0.1.0
+Author: Mike Hood
+Maintainer: Mike Hood <mike.hood@somewhere.net>
+Description: This package will take in a number and square it.  This is a test run
+License: IDK
+Encoding: UTF-8
+LazyData: true
